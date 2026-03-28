@@ -4,6 +4,9 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: false,
 
+  // 是否显示首页顶部英雄区(大卡)，设为 false 时完全隐藏英雄区（左右两侧均不渲染）
+  HEO_HOME_HERO_ENABLE: true,
+
   HEO_SITE_CREATE_TIME: '2026-03-27', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
